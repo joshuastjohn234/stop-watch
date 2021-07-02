@@ -1,0 +1,7 @@
+first we need to create an html.index file
+make an style.css and main js file and link to the HTML.index file
+we just need three buttons:' start, stop, reset'
+next we style our button and give our stop watch some color
+next we grab or DOM in the main js file
+
+ 
